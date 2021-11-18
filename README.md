@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=totoluto&show_icons=true&theme=tokyonight)
 
 <!---
 totoluto/totoluto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
