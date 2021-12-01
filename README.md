@@ -4,7 +4,7 @@
 
 - 🎓 I'm currently a student
 - 📊 I'm learning `react` right now
-- 💬 Ask me about anything [here](https://github.com/totoluto/totoluto/issues)
+- 💬 Ask me about anything [here](https://github.com/totoluto/totoluto/issues) or send me a [mail](mailto:totoluto.development@protonmail.com)
 
 **Languages:** <!-- Languages -->
 
