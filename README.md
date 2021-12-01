@@ -3,7 +3,7 @@
 **About me:** <!-- about me -->
 
 - 🎓 I'm currently a student
-- 📊 I'm learnig `react` right now
+- 📊 I'm learning `react` right now
 - 💬 Ask me about anything [here](https://github.com/totoluto/totoluto/issues)
 
 **Languages:** <!-- Languages -->
