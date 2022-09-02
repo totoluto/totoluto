@@ -3,7 +3,7 @@
 **About me:** <!-- about me -->
 
 - 🎓 I'm currently a student in application development
-- 📊 I'm currently creating a fullstack web application
+- 📊 I'm currently creating an IOS Application with React-Native
 - 💬 Ask me about anything [here](https://github.com/totoluto/totoluto/issues) or send me a [mail](mailto:totoluto.development@protonmail.com)
 
 **Languages:** <!-- Languages -->
