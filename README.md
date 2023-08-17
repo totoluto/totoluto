@@ -2,9 +2,10 @@
 
 **About me:** <!-- about me -->
 
-- 🎓 I'm currently a student in application development
+- ☕ I'm currently doing an internship
 - 📊 I'm currently working on a personal management system
 - 💬 Ask me about anything [here](https://github.com/totoluto/totoluto/issues) or send me a [mail](mailto:totoluto.development@protonmail.com)
+- 💻 My portfolio can be found [here](https://portfolio-totoluto.vercel.app/)
 
 **Languages:** <!-- Languages -->
 
