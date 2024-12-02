@@ -4,7 +4,7 @@
 
 - 🎓 I'm currently doing a Bachelor in Information and Cybersecurity
 - ⚙️ I'm currently fooling around with Raspberry Pis
-- 💬 Ask me about anything [here](https://github.com/totoluto/totoluto/issues) or send me a [mail](mailto:totoluto.development@protonmail.com)
+- 💬 If you got any questions send me a [mail](mailto:totoluto.development@protonmail.com)
 - 💻 My portfolio can be found [here](https://portfolio-totoluto.vercel.app/)
 
 **Languages:** <!-- Languages -->
