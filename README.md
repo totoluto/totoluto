@@ -1,31 +1,25 @@
-### Hi there, I'm totoluto
+ <div align="center">
 
-**About me:** <!-- about me -->
+<img src="assets/profile-intro.png" width="100%" alt="totoluto - Software Engineering / Systems / Security" />
 
-- 🎓 I'm currently doing a Bachelor in Information and Cybersecurity
-- ⚙️ I'm currently fooling around with Raspberry Pis
-- 💬 If you got any questions send me a [mail](mailto:totoluto.development@protonmail.com)
-- 💻 My portfolio can be found [here](https://portfolio-totoluto.vercel.app/)
+<div align="center">
+  <a href="https://github.com/totoluto">
+    <img height="155" src="https://github-readme-stats-totoluto.vercel.app/api?username=totoluto&show_icons=true&hide=stars&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics for totoluto" />
+  </a>
+  <a href="https://github.com/totoluto">
+    <img height="155" src="https://github-readme-stats-totoluto.vercel.app/api/top-langs/?username=totoluto&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages for totoluto" />
+  </a>
+</div>
 
-**Languages:** <!-- Languages -->
+---
 
-<p>
-  <img align="left" height="40" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">
-  <img align="left" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/1200px-Gnu-bash-logo.svg.png">
-  <img align="left" height="40" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png">
-  <img align="left" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">
-  <img align="left" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png">
-  <img align="left" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-  <img align="left" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-  <img align="left" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
-  <img align="left" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-  <img align="left" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-  <img align="left" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> 
-<p/>
+<div align="center">
 
-<br/>
-<br/>
-<!-- Stats -->
+*Understand the system. Build the solution.*
 
- <img align="center" src="https://github-readme-stats-totoluto.vercel.app/api?username=totoluto&show_icons=true&theme=tokyonight&hide=stars" /> | <img align="center" src="https://github-readme-stats-totoluto.vercel.app/api/top-langs/?username=totoluto&layout=compact&theme=tokyonight" /> |
-| ------------- | ------------- |
+
+<a href="https://github.com/totoluto?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20repositories-7aa2f7?style=for-the-badge&logo=github&logoColor=1a1b26" alt="Explore repositories" />
+</a>
+
+</div>
